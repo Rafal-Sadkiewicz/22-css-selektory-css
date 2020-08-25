@@ -1,0 +1,14 @@
+p
+{
+    color: rebeccapurple;
+}
+
+h1, h3
+{
+    background-color: bisque;
+}
+
+h1 + h3
+{
+    color: green;
+}
